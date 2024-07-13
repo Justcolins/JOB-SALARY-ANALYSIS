@@ -1,1 +1,3 @@
-# JOB-SALARY-ANALYSIS
+# JOB-SALARY-ANALYSIS #
+**About the Dataset** 
+The 2024 dataset on data developer salaries and employment attributes offers valuable insights into the evolving landscape of data developers. This comprehensive dataset includes key variables such as salary, job title, experience level, employment type, employee residence, remote work ratio, company location, and company size. By examining these variables, researchers, analysts, and organizations can gain a deeper understanding of salary trends, employment patterns, and geographic variations in data developer roles. This dataset serves as a valuable resource for understanding compensation trends, the distribution of data developer roles across different regions, and the impact of remote work and company size on employment in the data development field.
